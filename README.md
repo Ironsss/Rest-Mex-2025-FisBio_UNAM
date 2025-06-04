@@ -47,8 +47,7 @@ Las dependencias principales son:
 ```bash
 pip install -r requirements.txt
 
-...
-
+```
 ---
 
 ## Resultados oficiales
