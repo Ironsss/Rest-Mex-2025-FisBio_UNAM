@@ -49,7 +49,7 @@ pip install -r requirements.txt
 ## Datos y acceso
 Por motivos de privacidad y propiedad intelectual, este repositorio no incluye los datos de entrenamiento ni los datos de prueba utilizados en la competencia Rest-Mex 2025.
 
-Si deseas acceder a los datasets oficiales, te recomendamos contactar directamente a los organizadores de la competencia. Puedes encontrar sus datos de contacto en la página oficial de la competencia:
+Si deseas acceder a los datasets oficiales, te recomendamos contactar directamente a los organizadores de la competencia. Puedes encontrar sus datos de [contacto en la página oficial]((https://sites.google.com/cimat.mx/rest-mex-2025/results?authuser=0)) de la competencia:
 
 ---
 
