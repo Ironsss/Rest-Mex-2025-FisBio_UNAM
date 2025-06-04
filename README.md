@@ -18,7 +18,7 @@ davale@ciencias.unam.mx
 
 ## Descripción
 
-Este repositorio contiene la solución desarrollada para la competencia **Rest-Mex 2025**, realizada por los profesores de *Temas Selectos en Biomatemáticas: Introducción a la Ciencia de Datos Aplicada a Escenarios Médico-Biológicos*.
+Este repositorio contiene la solución desarrollada para la competencia **Rest-Mex 2025**, realizada por los profesores de [*Temas Selectos en Biomatemáticas: Introducción a la Ciencia de Datos Aplicada a Escenarios Médico-Biológicos*.](https://www.fciencias.unam.mx/docencia/horarios/presentacion/363733)
 
 La tarea consiste en un problema de clasificación multitarea de reseñas turísticas en español sobre los "Pueblos Mágicos" de México, que contempla simultáneamente:  
 - Predicción de la polaridad del sentimiento en una escala de 5 niveles.  
@@ -53,7 +53,8 @@ pip install -r requirements.txt
 ## Resultados oficiales
 
 Los resultados oficiales de la competencia Rest-Mex 2025 están disponibles en:  
-[https://sites.google.com/cimat.mx/rest-mex-2025/results?authuser=0](https://sites.google.com/cimat.mx/rest-mex-2025/results?authuser=0)
+[Rest-Mex 2025: Researching Sentiment Evaluation in Text for Mexican Magical Towns](https://sites.google.com/cimat.mx/rest-mex-2025/results?authuser=0)
+
 
 
 
