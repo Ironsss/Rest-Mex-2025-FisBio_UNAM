@@ -36,9 +36,7 @@ El modelo base es un BERT multilingüe finamente ajustado para esta tarea multit
 - `src/infer.py`: Script para realizar inferencias con datos de prueba sin etiquetas.  
 - `src/model.py`: Definición del modelo multitarea basado en BERT.  
 - `src/dataset.py`: Definición de datasets personalizados para entrenamiento e inferencia.  
-- `src/utils.py`: Funciones auxiliares varias (opcional).  
-- `data/`: Carpeta para los archivos de datos CSV y Excel (no subir datos confidenciales).  
-- `trained_model.pt` y `trained_tokenizer/`: Archivos generados tras el entrenamiento (no subir al repositorio).
+
 
 ---
 
@@ -48,3 +46,15 @@ Las dependencias principales son:
 
 ```bash
 pip install -r requirements.txt
+
+...
+
+---
+
+## Resultados oficiales
+
+Los resultados oficiales de la competencia Rest-Mex 2025 están disponibles en:  
+[https://sites.google.com/cimat.mx/rest-mex-2025/results?authuser=0](https://sites.google.com/cimat.mx/rest-mex-2025/results?authuser=0)
+
+...
+
