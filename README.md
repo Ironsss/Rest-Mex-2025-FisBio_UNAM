@@ -56,5 +56,5 @@ pip install -r requirements.txt
 Los resultados oficiales de la competencia Rest-Mex 2025 están disponibles en:  
 [https://sites.google.com/cimat.mx/rest-mex-2025/results?authuser=0](https://sites.google.com/cimat.mx/rest-mex-2025/results?authuser=0)
 
-...
+
 
