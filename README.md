@@ -4,9 +4,9 @@ Este repositorio contiene la solución oficial desarrollada por el equipo FisBio
 
 
 **Autores:**  
-David Alexis García-Espinosa (Autor principal, ORCID: 0000-0001-6141-407X)  
-Luis Eduardo Flores Luna (Coautor)  
-Andrés Moreno Sánchez (Coautor)
+David Alexis García-Espinosa (ORCID: 0000-0001-6141-407X)  
+Luis Eduardo Flores Luna  
+Andrés Moreno Sánchez 
 
 **Afiliación:**  
 Universidad Nacional Autónoma de México, Facultad de Ciencias, Ciudad de México, México
