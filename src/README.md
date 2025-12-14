@@ -16,7 +16,8 @@ The system was evaluated on official datasets provided by the REST MEX 2025 shar
 REST MEX is a shared task organized by researchers from the Centro de Investigacion en Matematicas CIMAT and collaborators. It is part of IberLEF which is co located with the SEPLN conference. The challenge focuses on sentiment evaluation and text classification for Mexican tourism reviews written in Spanish and aims to promote applied research in natural language processing for regional language variants.
 
 The official task page maintained by CIMAT can be found at the following address.
-https://sites.google.com/view/rest-mex
+
+https://sites.google.com/cimat.mx/rest-mex-2025/home
 
 ## Relevance of this work
 
